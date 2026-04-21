@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Shell-Bash-grey?style=flat-square&logo=gnubash">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square">
+  <img src="https://img.shields.io/badge/Status-Completed-green?style=flat-square">
 </p>
 
 This repository documents my learning journey through the **"Introduction to Terminal and Command Line"** course from Platzi.
