@@ -30,8 +30,16 @@ It also explores **shell customization, aliases, and workflow optimization**, pr
 
 ## 🏆 Certificate
 
+Successfully completed the course and obtained certification validating practical Linux CLI skills.
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Certificate-In%20Progress-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Certificate-Completed-brightgreen?style=for-the-badge">
+</p>
+
+<p align="left">
+  <a href="./assets/certificado-b50c8cb5-789c-42f2-a3f0-39e3bdb96139-ddf3583e-1ed5-4bda-a6f0-835f002d7f97.pdf" target="_blank">
+    <img src="./assets/certificado-b50c8cb5-789c-42f2-a3f0-39e3bdb96139-ddf3583e-1ed5-4bda-a6f0-835f002d7f97-1.png" width="500">
+  </a>
 </p>
 
 ---
